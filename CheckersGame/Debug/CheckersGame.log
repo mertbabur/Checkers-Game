@@ -1,0 +1,9 @@
+﻿  Source.c
+C:\Users\Mert\source\repos\CheckersGame\CheckersGame\Source.c(1392,61): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Mert\source\repos\CheckersGame\CheckersGame\Source.c(1392,61): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\Mert\source\repos\CheckersGame\CheckersGame\Source.c(1395,61): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Mert\source\repos\CheckersGame\CheckersGame\Source.c(1395,61): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\Mert\source\repos\CheckersGame\CheckersGame\Source.c(545): warning C4715: 'movePiece': not all control paths return a value
+C:\Users\Mert\source\repos\CheckersGame\CheckersGame\Source.c(1212): warning C4715: 'yenecekTasVarMi': not all control paths return a value
+C:\Users\Mert\source\repos\CheckersGame\CheckersGame\Source.c(996): warning C4715: 'eatRival': not all control paths return a value
+  CheckersGame.vcxproj -> C:\Users\Mert\source\repos\CheckersGame\Debug\CheckersGame.exe
